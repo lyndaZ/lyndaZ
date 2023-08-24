@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lyndaZ
-- 👀 I’m interested in tech 
-- 🌱 I’m currently learning data analytics 
+- 👋 Hi, I’m Lynda
+- 🌱 I’m an aspiring Front-end developer. 
 - 💞️ I’m looking to collaborate on (not sure yet ) I'm a newbie 
 - 📫 How to reach me lyndanobuhlezondo@gmail.com
 
